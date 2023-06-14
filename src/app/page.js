@@ -5,7 +5,7 @@ import Footer from "./Footer"
 
 export default function Home() {
   return (
-    <main className='bg-blue-500'>
+    <main className='bg-cyan-500'>
       <section className="py-10 md:pt-24 md:pb-12 container max-w-screen-xl mx-auto px-4 text-center">
         <Image src="/CJ Cookie.jpg" alt="" width="350" height="350" className="mx-auto mb-16 rounded-full" />
         <h1 className="font-medium text-gray-600 text-lg md:text-2xl uppercase mb-8">Chris Ward</h1>
