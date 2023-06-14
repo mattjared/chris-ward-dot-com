@@ -10,7 +10,7 @@ export default function Home() {
         <Image src="/CJ Cookie.jpg" alt="" width="350" height="350" className="mx-auto mb-16 rounded-full" />
         <h1 className="font-medium text-gray-600 text-lg md:text-2xl uppercase mb-8">Chris Ward</h1>
         <h2 className='text-6xl font-bold'>Sales Guy @ Vercel</h2>
-        <p className="font-bold text-teal-300 text-md md:text-xl my-16">Keeping it real real</p>
+        <p className="font-bold text-teal-300 text-md md:text-xl my-16">I love Julie</p>
       </section>
       <Contact />
       <Tiles />
